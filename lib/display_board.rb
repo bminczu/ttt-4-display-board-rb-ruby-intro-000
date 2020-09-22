@@ -5,4 +5,3 @@ def display_board
   puts "-----------"
   puts "   |   |   "
 end
-# out the current state.
